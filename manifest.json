@@ -1,0 +1,24 @@
+{
+  "name": "Aura Habit Tracker",
+  "short_name": "Aura",
+  "description": "Minimalistic Habit Tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/short-term/release/googleglyphs/energy_savings_leaf/v6/48px.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://fonts.gstatic.com/s/i/short-term/release/googleglyphs/energy_savings_leaf/v6/48px.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

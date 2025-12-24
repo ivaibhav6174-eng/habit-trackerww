@@ -1,0 +1,1 @@
+// This file has been removed to ensure the app functions 100% offline.

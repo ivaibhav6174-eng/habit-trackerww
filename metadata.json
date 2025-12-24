@@ -1,0 +1,5 @@
+{
+  "name": "Aura Habit Tracker",
+  "description": "A minimalistic, privacy-focused offline habit tracker designed for focus and personal growth, featuring beautiful progress visualizations and local data storage.",
+  "requestFramePermissions": []
+}
